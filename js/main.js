@@ -1,4 +1,4 @@
-var red;
+var red; blue;
 
 function setup(){
     red = color(255,0,0);
